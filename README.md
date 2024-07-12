@@ -10,7 +10,7 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 
 # Installation
 
-1. Download and install the APK (Winlator@Frost 7.1 V3.apk) from [GitHub Releases](https://github.com/MrPhryaNikFrosty/Winlator-Frost/releases)
+1. Download and install the APK (Winlator@Frost 7.1 V4.apk) from [GitHub Releases](https://github.com/MrPhryaNikFrosty/Winlator-Frost/releases)
 2. Launch the app and wait for the installation process to finish
 
 ----
@@ -47,7 +47,7 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 - Bench is for the user that have 2 or more winlator. It's suitable for the user to compare other winlator. While, without bench is for the user that don't have/install any winlator yet.
 
 # Like my mod? 
-- If you like then give us a star for this repository. Also give us feedback or suggestions in 'pull requests'.
+- If you like then give us a star for this repository. Also give us feedback or suggestions in 'pull requests' to help the development for this mod.
 
 # Hate my mod or think other winlator mod are better than mine?
 - Yes. Exactly, my mod will become very worst at some device that are not fit with my mod. So you can try other winlator mod that are better than me (like afei, or bla, bla, bla). Remember, I made this winlator just for personal use only but I think it would be good if I share it to other people. But, what can I do if my winlator mod doesn't work properly in your device.
