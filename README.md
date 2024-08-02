@@ -39,8 +39,8 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 - `LLVMPIPE` - Use this if you want to run software apps `(not for game)`
 
 # Known issue in Winlator@Frost
-- Snapdragon 8s gen 3 `Adreno​ 735` container not starting issue
-- Snapdragon 8 gen 3 `Adreno 750` may not working/compatible with this mod
+- ~~Snapdragon 8s gen 3 `Adreno​ 735` container not starting issue~~ (now it's working)
+- Some game in Snapdragon 8 gen 3 may not working or have a performance hit
 - Some game have a xinput issue which virtual gamepad are not working
 
 # What is the difference between bench and without bench apk? 
