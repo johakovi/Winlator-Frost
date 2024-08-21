@@ -10,8 +10,9 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 
 # Installation
 
-1. Download and install the APK (Winlator@Frost 7.1 V4.apk) from [GitHub Releases](https://github.com/MrPhryaNikFrosty/Winlator-Frost/releases)
+1. Download and install the APK (Winlator@Frost 7.1 V6.apk) from [GitHub Releases](https://github.com/MrPhryaNikFrosty/Winlator-Frost/releases)
 2. Launch the app and wait for the installation process to finish
+3. You can try out our new winlator mod glibc from the latest release
 
 ----
 
@@ -42,6 +43,7 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 - ~~Snapdragon 8s gen 3 `Adreno​ 735` container not starting issue~~ (now it's working)
 - Some game in Snapdragon 8 gen 3 may not working or have a performance hit
 - Some game have a xinput issue which virtual gamepad are not working
+- Odin 2 users will facing the xinput issue in latest glibc due to newest wine version
 
 # What is the difference between bench and without bench apk? 
 - Bench is for the user that have 2 or more winlator. It's suitable for the user to compare other winlator. While, without bench is for the user that don't have/install any winlator yet.
