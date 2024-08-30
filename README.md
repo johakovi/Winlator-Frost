@@ -63,7 +63,8 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 - DXVK ([github.com/doitsujin/dxvk](https://github.com/doitsujin/dxvk))
 - D8VK ([github.com/AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk))
 - CNC DDraw ([github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
-- Winlator Turnip Driver by (https://github.com/K11MCH1/WinlatorTurnipDrivers)
+- Winlator Turnip Driver
+(https://github.com/K11MCH1/WinlatorTurnipDrivers)
 
 Many thanks to [ptitSeb](https://github.com/ptitSeb) (Box86/Box64), [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/) (Turnip), [alexvorxx](https://github.com/alexvorxx) 
 (Mods/Tips) and others.
