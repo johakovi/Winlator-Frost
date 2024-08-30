@@ -35,7 +35,7 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 </p>
 
 # System requirement for Winlator@Frost
-- `Turnip` - For `Adreno 6xx and 7xx` only at the moment. `Adreno 735, 732, 720, 710 and 613` are not working. You have to use VirGL if you're using this GPU
+- `Turnip` - For `Adreno 6xx and 7xx` only at the moment. `Adreno 720, 710 and 613` are not working. You have to use VirGL if you're using this GPU. Turnip `Adreno 735`are still in experimental and it's likely some game might not working
 - `VirGL` - Universal, all GPU `like Mediatek, Exynos, Kirin, Unisoc, etc`(include unsupport GPU of turnip adreno like in above)` might work with VirGL but you can only play DX9 games
 - `LLVMPIPE` - Use this if you want to run software apps `(not for game)`
 
@@ -43,7 +43,7 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 - ~~Snapdragon 8s gen 3 `Adreno​ 735` container not starting issue~~ (now it's working)
 - Some game in Snapdragon 8 gen 3 may not working or have a performance hit
 - Some game have a xinput issue which virtual gamepad are not working
-- Odin 2 users will facing the xinput issue in latest glibc due to newest wine version
+- Odin 2 users or external gamepad will facing the xinput issue (like joystick issue) in latest glibc due to newest wine version
 
 # What is the difference between bench and without bench apk? 
 - Bench is for the user that have 2 or more winlator. It's suitable for the user to compare other winlator. While, without bench is for the user that don't have/install any winlator yet.
@@ -63,6 +63,7 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 - DXVK ([github.com/doitsujin/dxvk](https://github.com/doitsujin/dxvk))
 - D8VK ([github.com/AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk))
 - CNC DDraw ([github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
+- Winlator Turnip Driver by ([K11MCH1] (https://github.com/K11MCH1/WinlatorTurnipDrivers))​
 
 Many thanks to [ptitSeb](https://github.com/ptitSeb) (Box86/Box64), [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/) (Turnip), [alexvorxx](https://github.com/alexvorxx) 
 (Mods/Tips) and others.
