@@ -44,6 +44,7 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 - Some game in Snapdragon 8 gen 3 may not working or have a performance hit
 - Some game have a xinput issue which virtual gamepad are not working
 - Odin 2 users or external gamepad will facing the xinput issue (like joystick issue) in latest glibc due to newest wine version
+- VirGL in glibc version doesn't work at all
 
 # What is the difference between bench and without bench apk? 
 - Bench is for the user that have 2 or more winlator. It's suitable for the user to compare other winlator. While, without bench is for the user that don't have/install any winlator yet.
