@@ -33,6 +33,8 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 <p align="center">
 	<img src="hide_dxvk_hud.png" width="480" height="240" alt="Winlator-Frost Hide DXVK HUD" />  
 </p>
+- If you want to use VirGL in winlator version (7.1), make sure you change the env of `MESA_GL_VERSION_OVERRIDE`from `3.3COMPAT`to `2.1` or `3.1COMPAT`
+For other version of winlator you can run it using `3.3COMPAT`
 
 # System requirement for Winlator@Frost
 - `Turnip` - For `Adreno 6xx and 7xx` only at the moment. `Adreno 720, 710 and 613` are not working. You have to use VirGL if you're using this GPU. Turnip `Adreno 735`are still in experimental and it's likely some game might not working
@@ -41,10 +43,10 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 
 # Known issue in Winlator@Frost
 - ~~Snapdragon 8s gen 3 `Adreno​ 735` container not starting issue~~ (now it's working)
-- Some game in Snapdragon 8 gen 3 may not working or have a performance hit
+- ~~Some game in Snapdragon 8 gen 3 may not working or have a performance hit~~ (try change turnip version)
 - Some game have a xinput issue which virtual gamepad are not working
-- Odin 2 users or external gamepad will facing the xinput issue (like joystick issue) in latest glibc due to newest wine version
-- VirGL in glibc version doesn't work at all
+- Odin 2 users, external gamepad or even virtual gamepad will facing the xinput issue (like joystick issue) in glibc version
+- ~~VirGL in glibc version doesn't work at all~~ (it's working by using the winlator glibc with VirGL version)
 
 # What is the difference between bench and without bench apk? 
 - Bench is for the user that have 2 or more winlator. It's suitable for the user to compare other winlator. While, without bench is for the user that don't have/install any winlator yet.
@@ -64,8 +66,7 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 - DXVK ([github.com/doitsujin/dxvk](https://github.com/doitsujin/dxvk))
 - D8VK ([github.com/AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk))
 - CNC DDraw ([github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
-- Winlator Turnip Driver
-(https://github.com/K11MCH1/WinlatorTurnipDrivers)
+- ([Winlator Turnip Driver](https://github.com/K11MCH1/WinlatorTurnipDrivers))​ by K11MCH1
 
 Many thanks to [ptitSeb](https://github.com/ptitSeb) (Box86/Box64), [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/) (Turnip), [alexvorxx](https://github.com/alexvorxx) 
 (Mods/Tips) and others.
