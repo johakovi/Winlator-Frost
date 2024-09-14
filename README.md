@@ -33,6 +33,7 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 <p align="center">
 	<img src="hide_dxvk_hud.png" width="480" height="240" alt="Winlator-Frost Hide DXVK HUD" />  
 </p>
+
 - If you want to use VirGL in winlator version (7.1), make sure you change the env of `MESA_GL_VERSION_OVERRIDE`from `3.3COMPAT`to `2.1` or `3.1COMPAT`
 For other version of winlator you can run it using `3.3COMPAT`
 
