@@ -10,7 +10,7 @@ Modded by a student 16 years old from Songkhla province, Thailand.
 
 # Installation
 
-1. Download and install the APK (Winlator@Frost 7.1 V6.apk) from [GitHub Releases](https://github.com/MrPhryaNikFrosty/Winlator-Frost/releases)
+1. Download and install the APK (Winlator@Frost 8.0R1 V1.apk) from [GitHub Releases](https://github.com/MrPhryaNikFrosty/Winlator-Frost/releases)
 2. Launch the app and wait for the installation process to finish
 3. You can try out our new winlator mod glibc from the latest release
 
